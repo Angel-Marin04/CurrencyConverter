@@ -63,4 +63,3 @@ Si tienes alguna pregunta, sugerencia o necesitas ayuda, no dudes en contactarme
 
 - A: [ExchangeRate-API](https://v6.exchangerate-api.com/), por proporcionar los factores de conversión.
 - A: [Alura Latam](https://www.aluracursos.com/), por brindarme todos los conocimientos para hacer posible este proyecto.
-- A: Samanta Nayeli Yañez Amaya, por su apoyo incondicional. 
